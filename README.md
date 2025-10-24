@@ -1,6 +1,3 @@
-# sign-language-translator
-the project is about sign language translator using deep learning with datasets
-
 # Sign Language Translator — Deep Learning
 
 > **Project:** Real-time sign language translator that recognizes hand signs (alphabet/words/phrases) using deep learning and optionally converts recognized signs to speech.
